@@ -5,3 +5,5 @@ dist/
 .env.*
 *.local
 dev-dist/
+
+.opencode/
